@@ -26,6 +26,9 @@
 
 - (void)newMethod {
 	// added Jan 13/15
+	
+	int i = 1;
+
 }
 
 
