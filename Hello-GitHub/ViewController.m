@@ -24,4 +24,9 @@
 	// Dispose of any resources that can be recreated.
 }
 
+- (void)newMethod {
+	// added Jan 13/15
+}
+
+
 @end
