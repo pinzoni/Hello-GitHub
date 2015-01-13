@@ -27,6 +27,8 @@
 - (void)newMethod {
 	// added Jan 13/15
 	
+	// some dev branch comment.
+
 	int i = 1;
 
 	NSLog(@"i = %d", i);
