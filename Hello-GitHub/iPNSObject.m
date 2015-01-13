@@ -10,4 +10,9 @@
 
 @implementation iPNSObject
 
+- (void)someMethod
+{
+	
+}
+
 @end
