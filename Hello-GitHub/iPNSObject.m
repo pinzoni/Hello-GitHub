@@ -15,4 +15,9 @@
 	
 }
 
+- (void)completeMethod
+{
+// fixed
+}
+
 @end
