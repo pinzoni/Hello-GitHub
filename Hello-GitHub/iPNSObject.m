@@ -15,6 +15,9 @@
 	
 }
 
-- incompleteMethod
+- (void)completeMethod
+{
+// fixed
+}
 
 @end
